@@ -1,0 +1,1 @@
+# quickcv-ai

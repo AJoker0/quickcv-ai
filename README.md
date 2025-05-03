@@ -43,3 +43,32 @@ npm install
 cp .env.example .env.local
 # Fill in your API keys
 npm run dev
+
+
+
+
+
+
+User Dashboard
+
+    Show name, email, profile image
+
+    Add a “Create Résumé” button
+
+Résumé Generation
+
+    Add a form or fetch GitHub profile info
+
+    Send to API route → OpenAI summary
+
+PDF Generator
+
+    Use @react-pdf/renderer to create download
+
+Public Share Page
+
+    /u/username route → show résumé SSR
+
+Pro Tier / Paywall
+
+    Add Stripe payments if you want to monetize

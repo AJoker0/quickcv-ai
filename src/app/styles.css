@@ -1,0 +1,117 @@
+/* src/app/styles.css */
+
+/* Базовые стили */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: #111827;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Стили для кнопок */
+  button {
+    cursor: pointer;
+    font-size: 16px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: none;
+    transition: all 0.3s ease;
+  }
+  
+  button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  button.bg-black {
+    background-color: #000;
+    color: white;
+  }
+  
+  button.bg-black:hover {
+    background-color: #333;
+  }
+  
+  button.bg-red {
+    background-color: #ef4444;
+    color: white;
+  }
+  
+  button.bg-red:hover {
+    background-color: #dc2626;
+  }
+  
+  button.bg-green {
+    background-color: #10b981;
+    color: white;
+  }
+  
+  button.bg-green:hover {
+    background-color: #059669;
+  }
+  
+  button.bg-blue {
+    background-color: #3b82f6;
+    color: white;
+  }
+  
+  button.bg-blue:hover {
+    background-color: #2563eb;
+  }
+  
+  /* Для форм */
+  input[type="text"], textarea {
+    width: 100%;
+    padding: 12px 16px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  input[type="text"]:focus, textarea:focus {
+    outline: none;
+    border-color: #3b82f6;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  /* Общие контейнеры */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Дополнительные стили */
+  .section {
+    padding: 4rem 2rem;
+  }
+  
+  /* Стили для картинок профиля */
+  img.rounded-full {
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  

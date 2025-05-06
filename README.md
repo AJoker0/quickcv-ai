@@ -1,6 +1,6 @@
 # 🚀 QuickCV
 
-**QuickCV.ai** lets developers paste their GitHub & LinkedIn links and instantly generate a polished PDF résumé and a personal mini-site — powered by AI.
+**QuickCV.ai** lets developers paste their GitHub & LinkedIn links and instantly generate a polished PDF résumé and a personal mini-site — powered by AI. http://localhost:3000/
 
 ### ✨ Features
 - 🧠 GPT-4 resume summary generation

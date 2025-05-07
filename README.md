@@ -75,5 +75,8 @@ Pro Tier / Paywall
 ``` 
 ![8a9e7505-b2ca-4e9b-8d27-8b5117ca5fe1](https://github.com/user-attachments/assets/be74eda4-1738-4577-a5b9-19dac9bb064a)
 
+![зображення](https://github.com/user-attachments/assets/8c2011a9-9520-4059-9245-f622a5873b9c)
+
+![зображення](https://github.com/user-attachments/assets/57811bac-6db0-4df3-8528-e76006faa305)
 
 

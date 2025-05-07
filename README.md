@@ -72,3 +72,7 @@ Public Share Page
 Pro Tier / Paywall
 
     Add Stripe payments if you want to monetize
+
+
+![8a9e7505-b2ca-4e9b-8d27-8b5117ca5fe1](https://github.com/user-attachments/assets/d069c06b-6a19-487c-81ee-89251a0c0208)
+

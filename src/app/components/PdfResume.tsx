@@ -20,11 +20,7 @@ const PdfResume = ({ resume }: { resume: any }) => (
           {Array.isArray(content)
             ? content.map((line: any, i: number) => (
                 <Text key={i} style={styles.text}>
-                  {/*typeof line === 'string'
-                    ? line
-                    : typeof line === 'object'
-                    ? JSON.stringify(line)
-                    : String(line)*/
+                  {
                     typeof line === 'object'
                       ? Object.entries(line)
                       .map(([k, v]) => `${k[0].toUpperCase() + k.slice(1)}: ${Array.isArray(v) ? v.join(', ') : v}`)

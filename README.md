@@ -50,6 +50,9 @@ npm run dev
 
 
 User Dashboard
+   https://
+   quickcv-ai.onrender.
+   com/
 
     Show name, email, profile image
 
